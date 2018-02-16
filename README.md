@@ -1,3 +1,4 @@
+[HOWTO Crypto Primer - Noah Altunian](https://github.com/naltun/howto_crypto_primer)
 # Investing in Cryptocurrency
 ##### Your _Getting Started_ Guide
 
