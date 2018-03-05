@@ -20,7 +20,7 @@ Total Market Cap:        $455,896,497,820
 Bitcoin Dominance:       34.7%
 Total Active Currencies: 897
 
-Statistics provided by
+Statistics provided by Coinmarketcap.com via Financier (github.com/naltun/financier)
 ```
 
 This means that Satoshi Nakamoto, in less than 10 years, was the sole catalyst for a market that is now worth almost half a billion dollars (USD). The cryptocurrency market value was resting near _~$900billion_ at the end of 2017.
